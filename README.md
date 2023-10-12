@@ -1,5 +1,4 @@
 <h1> Hi there, I'm <a href= "https://www.linkedin.com/in/brian--huang/" href=> Brian!</a> </h1>
-<h3> This is </h3>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
